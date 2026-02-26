@@ -1,0 +1,22 @@
+artifact_path: /home/sunny/finance_advisor/model/mlruns/1/models/m-3007822359924bccbb06dbcdb8a2001e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.3.2
+model_id: m-3007822359924bccbb06dbcdb8a2001e
+model_size_bytes: 275106
+model_uuid: m-3007822359924bccbb06dbcdb8a2001e
+prompts: null
+run_id: fcd424a205084454b721644d0ece0dfa
+utc_time_created: '2026-02-07 11:45:10.414218'

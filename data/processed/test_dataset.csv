@@ -1,0 +1,480 @@
+description,category,amount,merchant,is_synthetic,is_augmented
+Car maintenance $179,transportation,40.0,Gas Station,,True
+Payment for services,housing,1428.17,Rent Payment,True,
+contract work invoice #4599,freelance,303.35,,,True
+purchase,healthcare,63.26,Hospital,,True
+Monthly Salary Deposit via PayPal,salary,4557.78,,,True
+May Monthly Salary Deposit,salary,4905.03,,,True
+Payment for services,subscriptions,5.0,,True,
+groceries at target,groceries,43.6,Aldi,,True
+Dinner At Burger King,dining,35.94,Starbucks,,True
+Bank Transfer via Visa,housing,1506.63,Property Tax,,True
+bus ticket ride,transportation,39.82,Exxon,,True
+Wendy's,dining,22.64,Pizza Hut,True,
+$109 Fast food,dining,29.56,Taco Bell,,True
+$186 Produce purchase,groceries,127.71,Food Lion,,True
+Groceries At Whole Foods,groceries,102.84,Target,,True
+Groceries At Safeway,groceries,83.56,Publix,,True
+CONTRACT WORK INVOICE #4796,freelance,298.65,,,True
+Bank Transfer Oct,subscriptions,13.31,,,True
+Payment for services $110,entertainment,10.0,Arcade,,True
+Lunch at Panera Bread via Apple Pay,dining,11.1,Olive Garden,,True
+Bank Transfer $117,subscriptions,22.43,,,True
+at Coffee at Chipotle,dining,42.03,Wendy's,,True
+Purchase May,entertainment,10.0,HBO Max,,True
+$168 Public transportation,transportation,41.28,Bus Ticket,,True
+Freelance Payment $18,freelance,100.0,,,True
+at Lunch at Domino's,dining,17.26,McDonald's,,True
+Gas at Train Ticket,transportation,23.59,Parking,True,
+Contract Work Invoice #8089,freelance,100.0,,True,
+GAS AT BP,transportation,72.04,Shell,,True
+Groceries at Publix,groceries,83.13,Giant,True,
+gap shopping,shopping,15.0,Best Buy,,True
+Dinner at Burger King,dining,8.11,Chick-fil-A,True,
+at Dinner at Wendy's,dining,33.36,Chick-fil-A,,True
+$158 Electronics Amazon,shopping,15.0,Nordstrom,,True
+Aldi grocery via PayPal,groceries,196.37,Walmart,,True
+at Train Ticket ride,transportation,33.19,Shell,,True
+Electronics Walmart via PayPal,shopping,248.17,Target,,True
+coffee at dunkin',dining,42.6,Pizza Hut,,True
+Nov Entertainment Transaction,entertainment,10.0,Spotify,,True
+Bank Transfer $76,utilities,248.51,Phone Bill,,True
+Payment for services via Google Pay,subscriptions,21.34,,,True
+$92 Meijer grocery,groceries,73.98,Meijer,,True
+at Electronics Best Buy,shopping,15.0,Target,,True
+Paycheck from Acme Inc via Google Pay,salary,8184.68,,,True
+Payment for services Mar,subscriptions,14.52,,,True
+Monthly Salary Deposit $66,salary,6226.12,,,True
+Coffee at McDonald's,dining,19.76,Wendy's,True,
+Public transportation $185,transportation,52.39,Train Ticket,,True
+Contract Work Invoice #6054,freelance,100.0,,True,
+Walmart grocery Jan,groceries,64.05,Food Lion,,True
+Contract Work Invoice #1324,freelance,100.0,,True,
+Contract Work Invoice #5226,freelance,1965.85,,True,
+Gas at Uber Feb,transportation,40.44,Mobil,,True
+eBay shopping via Google Pay,shopping,275.14,Gap,,True
+Produce purchase via Visa,groceries,122.24,Kroger,,True
+Lunch at Pizza Hut purchase,dining,28.96,McDonald's,,True
+Restaurant meal Aug,dining,64.15,Panera Bread,,True
+Payment for services via Apple Pay,healthcare,277.7,Optometrist,,True
+Online purchase Best Buy $57,shopping,37.09,Kohl's,,True
+$134 Direct Deposit Salary,salary,5084.29,,,True
+$51 Home Depot order,shopping,15.0,Amazon,,True
+Target order,shopping,15.0,Walmart,True,
+at Electronics Lowe's,shopping,90.93,Best Buy,,True
+Produce purchase $143,groceries,20.0,Whole Foods,,True
+CONTRACT WORK INVOICE #8932,freelance,351.89,,,True
+$9 Supermarket purchase,groceries,42.33,Safeway,,True
+Exxon ride via Mastercard,transportation,63.62,Uber,,True
+Groceries at Trader Joe's,groceries,117.16,Food Lion,True,
+$167 Home goods,shopping,44.12,Lowe's,,True
+eBay shopping $184,shopping,275.14,Gap,,True
+Weekly groceries via Mastercard,groceries,117.07,Kroger,,True
+Paycheck from Tech Corp via Google Pay,salary,2000.0,,,True
+Chipotle purchase,dining,5.0,Wendy's,,True
+Bank Transfer $10,healthcare,213.68,Health Insurance,,True
+Payment for services $34,entertainment,10.0,HBO Max,,True
+Applebees via Apple Pay,dining,31.4,Wendy's,,True
+gas at lyft,transportation,21.5,Shell,,True
+Purchase Jun,utilities,67.6,Trash Service,,True
+Electronics Macy'S,shopping,296.56,Kohl's,,True
+$118 Supermarket purchase,groceries,77.64,Food Lion,,True
+GAS AT TRAIN TICKET,transportation,56.85,Bus Ticket,,True
+$170 Public transportation,transportation,34.21,Lyft,,True
+Contract Work Invoice #3736,freelance,3643.23,,True,
+electronics walmart,shopping,481.95,Target,,True
+Apr Produce purchase,groceries,129.54,Safeway,,True
+Subscriptions Transaction $93,subscriptions,22.81,,,True
+payment to eBay shopping,shopping,275.14,Gap,,True
+$134 Wendy's,dining,27.88,Taco Bell,,True
+Contract Work Invoice #4226,freelance,534.03,,,True
+Electronics Lowe'S,shopping,90.93,Best Buy,,True
+Lunch at Burger King purchase,dining,43.08,Wendy's,,True
+payment to Online purchase Kohl's,shopping,29.29,eBay,,True
+payment to Target shopping,shopping,76.61,Nordstrom,,True
+$100 Purchase,subscriptions,11.37,,,True
+Kroger grocery via Google Pay,groceries,123.46,Food Lion,,True
+Safeway grocery via Mastercard,groceries,110.09,Food Lion,,True
+Apr Payment for services,healthcare,267.08,Pharmacy,,True
+at Lunch at Chick-fil-A,dining,35.43,Wendy's,,True
+Contract Work Invoice #6963 Dec,freelance,241.86,,,True
+whole foods grocery,groceries,30.1,Meijer,,True
+Contract Work Invoice #9361,freelance,100.0,,,True
+payment to Amazon order,shopping,86.3,Best Buy,,True
+May Paycheck from Innovation Co,salary,7883.45,,,True
+Purchase $162,subscriptions,15.56,,,True
+Coffee at Dunkin' $164,dining,59.88,Pizza Hut,,True
+BEST BUY SHOPPING,shopping,15.0,Lowe's,,True
+lunch at domino's,dining,17.26,McDonald's,,True
+Safeway Grocery,groceries,110.09,Food Lion,,True
+at Online purchase Lowe's,shopping,42.87,Amazon,,True
+$96 Restaurant meal,dining,16.56,Starbucks,,True
+Publix grocery via Visa,groceries,97.95,Publix,,True
+Oct Bank Transfer,subscriptions,13.31,,,True
+best buy order,shopping,15.0,Macy's,,True
+Payment For Services,entertainment,58.16,HBO Max,,True
+Groceries at Safeway purchase,groceries,83.56,Publix,,True
+Payment for services $106,entertainment,134.15,Hulu,,True
+Coffee At Applebees,dining,56.65,Domino's,,True
+Monthly Salary Deposit $153,salary,2635.5,,,True
+Lunch at Domino's purchase,dining,17.26,McDonald's,,True
+TACO BELL,dining,19.34,Applebees,,True
+Walmart order Oct,shopping,15.0,Nordstrom,,True
+Monthly Salary Deposit Jun,salary,4263.74,,,True
+Parking ride,transportation,32.16,Parking,True,
+Coffee at Pizza Hut purchase,dining,34.43,Dunkin',,True
+Produce purchase $195,groceries,129.54,Safeway,,True
+Lunch at Starbucks via PayPal,dining,48.5,Chipotle,,True
+Publix grocery purchase,groceries,113.23,Publix,,True
+Electronics Home Depot Jul,shopping,174.94,Lowe's,,True
+at Gas at BP,transportation,72.04,Shell,,True
+payment to Coffee at Starbucks,dining,11.16,Domino's,,True
+payment to Electronics Gap,shopping,63.84,Home Depot,,True
+$15 Utilities Transaction,utilities,41.7,Electric Company,,True
+Sep Produce purchase,groceries,50.16,Food Lion,,True
+$74 Payment for services,healthcare,45.3,Prescription,,True
+Shell ride Jan,transportation,39.76,Shell,,True
+Coffee at Applebees $19,dining,37.13,Burger King,,True
+Wendy's via Google Pay,dining,21.26,Pizza Hut,,True
+Jul Electronics Home Depot,shopping,174.94,Lowe's,,True
+Trader Joe's grocery,groceries,92.74,Meijer,True,
+contract work invoice #1040,freelance,100.0,,,True
+$119 Bank Transfer,utilities,166.31,Sewer Bill,,True
+Jun Monthly Salary Deposit,salary,4263.74,,,True
+PAYMENT FOR SERVICES,healthcare,208.36,Medical Supplies,,True
+Payment for services via Mastercard,housing,1785.82,HOA Fees,,True
+Oct Payment for services,utilities,30.0,Sewer Bill,,True
+contract work invoice #9798,freelance,1613.61,,,True
+groceries at publix,groceries,31.17,Safeway,,True
+Trader Joe's grocery via Mastercard,groceries,105.95,Walmart,,True
+Contract Work Invoice #6595,freelance,223.59,,,True
+CHIPOTLE,dining,5.0,Wendy's,,True
+Lunch At Burger King,dining,43.08,Wendy's,,True
+$82 Old Navy shopping,shopping,139.05,Nordstrom,,True
+payment to Groceries at Giant,groceries,107.66,Publix,,True
+Dinner At Pizza Hut,dining,37.6,Panera Bread,,True
+$35 Lowe's order,shopping,40.74,Gap,,True
+Feb Direct Deposit Salary,salary,5537.72,,,True
+Weekly groceries via Visa,groceries,70.33,Giant,,True
+Groceries At Trader Joe'S,groceries,75.29,Walmart,,True
+at Dunkin',dining,20.27,Domino's,,True
+Fast food Dec,dining,22.09,Starbucks,,True
+$106 Food Lion grocery,groceries,57.26,Food Lion,,True
+Car maintenance Mar,transportation,10.0,Exxon,,True
+Online purchase Old Navy purchase,shopping,15.0,Nordstrom,,True
+contract work invoice #4694,freelance,1373.02,,,True
+Lowe's shopping,shopping,143.48,Home Depot,True,
+Produce purchase $118,groceries,69.44,Whole Foods,,True
+at Uber ride,transportation,14.83,Train Ticket,,True
+Giant Grocery,groceries,81.55,Food Lion,,True
+Contract Work Invoice #3903,freelance,1923.15,,True,
+Contract Work Invoice #4992,freelance,719.57,,True,
+Online purchase Old Navy Mar,shopping,15.0,Nordstrom,,True
+payment to Groceries at Costco,groceries,53.38,Trader Joe's,,True
+Contract Work Invoice #8932 $183,freelance,351.89,,,True
+payment to Dinner at Burger King,dining,35.94,Starbucks,,True
+Contract Work Invoice #2349,freelance,100.0,,True,
+Gas Station ride purchase,transportation,20.69,Exxon,,True
+$30 Consulting Services,freelance,100.0,,,True
+Payment for services $89,housing,1384.03,Mortgage,,True
+LUNCH AT PANERA BREAD,dining,11.1,Olive Garden,,True
+at Coffee at McDonald's,dining,40.42,Applebees,,True
+$156 Bank Transfer,entertainment,43.21,Netflix,,True
+payment to Electronics Walmart,shopping,481.95,Target,,True
+Nordstrom order purchase,shopping,24.42,Nordstrom,,True
+bp ride,transportation,20.59,Uber,,True
+Lunch at Wendy's Jan,dining,14.78,Subway,,True
+Groceries at Target,groceries,173.26,Safeway,True,
+Online Purchase Kohl'S,shopping,29.29,eBay,,True
+Lunch at Chipotle,dining,5.0,Chipotle,True,
+Coffee at Wendy's $74,dining,13.44,Taco Bell,,True
+payment to Dinner at Chipotle,dining,38.28,Taco Bell,,True
+COFFEE AT DUNKIN',dining,42.6,Pizza Hut,,True
+Jun Kohl's shopping,shopping,207.65,Lowe's,,True
+Contract Work Invoice #7252,freelance,2027.18,,True,
+payment for services,subscriptions,14.52,,,True
+at Lowe's shopping,shopping,15.0,Lowe's,,True
+$180 Monthly Salary Deposit,salary,2049.15,,,True
+olive garden,dining,24.97,Chipotle,,True
+at Gas at Shell,transportation,44.1,Shell,,True
+Car maintenance,transportation,68.44,Metro Transit,True,
+Public transportation Apr,transportation,19.59,Metro Transit,,True
+bank transfer,subscriptions,24.24,,,True
+shell ride,transportation,39.76,Shell,,True
+Apr Monthly Salary Deposit,salary,6638.32,,,True
+Bank Transfer $192,housing,1248.15,Apartment,,True
+Taxi service via Google Pay,transportation,19.4,Train Ticket,,True
+Payment for services via Visa,subscriptions,14.52,,,True
+$76 Bank Transfer,utilities,248.51,Phone Bill,,True
+payment to Groceries at Meijer,groceries,137.65,Publix,,True
+Weekly groceries $24,groceries,134.23,Trader Joe's,,True
+at Lyft ride,transportation,19.45,Gas Station,,True
+Olive Garden Jan,dining,24.97,Chipotle,,True
+$144 Produce purchase,groceries,61.88,Aldi,,True
+Subway,dining,31.62,Olive Garden,True,
+Groceries at Kroger purchase,groceries,105.71,Food Lion,,True
+Lowe's order $35,shopping,40.74,Gap,,True
+Contract Work Invoice #6963,freelance,241.86,,,True
+Electronics eBay $185,shopping,94.65,Home Depot,,True
+Online purchase Kohl's Nov,shopping,15.0,Macy's,,True
+payment to Lunch at Domino's,dining,17.26,McDonald's,,True
+Contract Work Invoice #1920,freelance,100.0,,True,
+Freelance Payment $20,freelance,2148.56,,,True
+Paycheck From Tech Corp,salary,5285.52,,,True
+Freelance Payment via Mastercard,freelance,607.14,,,True
+Payment for services via Visa,housing,2460.75,Property Tax,,True
+CONTRACT WORK INVOICE #5787,freelance,221.08,,,True
+Bp Ride,transportation,20.59,Uber,,True
+Bank Transfer Feb,subscriptions,10.07,,,True
+Contract Work Invoice #3054,freelance,2185.89,,True,
+Subscriptions Transaction,subscriptions,16.62,,True,
+Coffee at Dunkin' purchase,dining,42.6,Pizza Hut,,True
+at Lunch at Pizza Hut,dining,28.96,McDonald's,,True
+$61 Food shopping,groceries,21.41,Target,,True
+Contract Work Invoice #2275,freelance,485.24,,,True
+payment to Kohl's shopping,shopping,125.5,Walmart,,True
+$189 Bank Transfer,entertainment,37.81,Concert,,True
+Clothing purchase via PayPal,shopping,32.49,Best Buy,,True
+CONTRACT WORK INVOICE #2121,freelance,701.97,,,True
+Costco grocery $86,groceries,110.98,Meijer,,True
+Car maintenance via PayPal,transportation,20.26,Train Ticket,,True
+Online purchase Lowe's Oct,shopping,42.87,Amazon,,True
+Groceries at Walmart via Google Pay,groceries,20.0,Costco,,True
+Sep Freelance Payment,freelance,607.14,,,True
+Amazon order via Mastercard,shopping,170.4,Best Buy,,True
+CONTRACT WORK INVOICE #4226,freelance,534.03,,,True
+Dinner at McDonald's,dining,14.06,Taco Bell,True,
+Payment for services via Google Pay,housing,1522.14,Rent Payment,,True
+payment to Online purchase Amazon,shopping,217.14,Best Buy,,True
+LOWE'S ORDER,shopping,40.74,Gap,,True
+Purchase $38,utilities,52.98,Sewer Bill,,True
+parking fee,transportation,27.47,Gas Station,,True
+Food Shopping,groceries,153.9,Target,,True
+Groceries at Costco purchase,groceries,53.38,Trader Joe's,,True
+Restaurant meal $20,dining,28.38,Panera Bread,,True
+PURCHASE,entertainment,85.38,Concert,,True
+Food shopping $52,groceries,73.72,Trader Joe's,,True
+Taxi service $69,transportation,45.69,Lyft,,True
+Dinner at Chick-fil-A $108,dining,16.14,Dunkin',,True
+$48 Payment for services,entertainment,46.51,Spotify,,True
+payment to Gas at Shell,transportation,44.1,Shell,,True
+Contract Work Invoice #5110,freelance,100.0,,True,
+Consulting Services,freelance,357.7,,True,
+$36 Bank Transfer,housing,1858.88,HOA Fees,,True
+Contract Work Invoice #8397,freelance,1028.27,,True,
+WALMART GROCERY,groceries,89.68,Whole Foods,,True
+$73 Home goods,shopping,91.13,eBay,,True
+dinner at chick-fil-a,dining,16.14,Dunkin',,True
+Dinner at Domino's,dining,39.9,Burger King,True,
+May Bank Transfer,healthcare,20.0,Prescription,,True
+Contract Work Invoice #6742,freelance,100.0,,True,
+Payment for services Jun,utilities,112.93,Internet Service,,True
+Walmart order,shopping,19.93,Home Depot,True,
+LUNCH AT PIZZA HUT,dining,28.96,McDonald's,,True
+Lowe's shopping $25,shopping,15.0,Lowe's,,True
+Wendy'S,dining,21.26,Pizza Hut,,True
+Online Purchase Best Buy,shopping,37.09,Kohl's,,True
+Produce purchase,groceries,35.74,Kroger,True,
+ENTERTAINMENT TRANSACTION,entertainment,97.9,Disney+,,True
+Contract Work Invoice #2677,freelance,100.0,,True,
+$60 Payment for services,entertainment,30.18,Sports Game,,True
+Lunch at Wendy's via Visa,dining,14.78,Subway,,True
+Lunch at Chipotle via Apple Pay,dining,42.05,Chick-fil-A,,True
+Coffee at Starbucks purchase,dining,11.16,Domino's,,True
+$186 Exxon ride,transportation,63.62,Uber,,True
+payment to Shell ride,transportation,39.76,Shell,,True
+Dinner at Taco Bell,dining,20.39,Pizza Hut,True,
+Online purchase Home Depot,shopping,27.21,Amazon,True,
+PURCHASE,housing,500.0,Apartment,,True
+Contract Work Invoice #8735,freelance,284.1,,True,
+Wendy's purchase,dining,21.26,Pizza Hut,,True
+Supermarket purchase $151,groceries,66.27,Walmart,,True
+Utilities Transaction via Mastercard,utilities,286.07,Internet Service,,True
+Contract Work Invoice #5711,freelance,1814.87,,True,
+$67 Produce purchase,groceries,60.21,Target,,True
+$175 Purchase,utilities,128.01,Phone Bill,,True
+Aug Lowe's order,shopping,15.0,Lowe's,,True
+Paycheck from Acme Inc Sep,salary,3143.42,,,True
+gas at metro transit,transportation,23.82,BP,,True
+Utilities Transaction $185,utilities,144.35,Phone Bill,,True
+$114 Bank Transfer,entertainment,42.09,Netflix,,True
+NORDSTROM ORDER,shopping,24.42,Nordstrom,,True
+Chick-fil-A,dining,51.48,Applebees,True,
+Nov Giant grocery,groceries,81.55,Food Lion,,True
+Contract Work Invoice #1950,freelance,1365.04,,True,
+payment to Walmart order,shopping,145.81,Gap,,True
+Purchase via PayPal,entertainment,22.05,Spotify,,True
+$9 Contract Work Invoice #1491,freelance,2660.79,,,True
+Food shopping $43,groceries,44.83,Safeway,,True
+$33 Fast food,dining,37.85,Chick-fil-A,,True
+CONTRACT WORK INVOICE #1491,freelance,2660.79,,,True
+Taxi service Apr,transportation,65.08,Shell,,True
+DINNER AT PIZZA HUT,dining,37.6,Panera Bread,,True
+NORDSTROM SHOPPING,shopping,196.13,Best Buy,,True
+Nordstrom Shopping,shopping,196.13,Best Buy,,True
+consulting services,freelance,766.05,,,True
+Purchase $79,healthcare,60.75,Optometrist,,True
+payment to Safeway grocery,groceries,110.09,Food Lion,,True
+Bank Transfer $52,healthcare,20.0,Hospital,,True
+at Publix grocery,groceries,113.23,Publix,,True
+giant grocery,groceries,81.55,Food Lion,,True
+$166 Giant grocery,groceries,76.79,Publix,,True
+Contract Work Invoice #5741,freelance,615.66,,True,
+mobil ride,transportation,33.38,Mobil,,True
+at Amazon shopping,shopping,207.21,Old Navy,,True
+CHICK-FIL-A,dining,22.32,McDonald's,,True
+Lunch at Domino's Jan,dining,17.26,McDonald's,,True
+BEST BUY ORDER,shopping,15.0,Macy's,,True
+$184 eBay shopping,shopping,275.14,Gap,,True
+Healthcare Transaction via Mastercard,healthcare,89.49,Doctor's Office,,True
+Nov Bank Transfer,entertainment,79.74,Spotify,,True
+at Old Navy order,shopping,15.0,Kohl's,,True
+PURCHASE,utilities,93.96,Cable TV,,True
+Jul Groceries at Food Lion,groceries,96.95,Kroger,,True
+Contract Work Invoice #5687,freelance,100.0,,True,
+Fast Food,dining,14.8,Panera Bread,,True
+uber ride,transportation,14.83,Train Ticket,,True
+Food shopping Nov,groceries,80.73,Safeway,,True
+Dinner at Pizza Hut purchase,dining,37.6,Panera Bread,,True
+Gas at Gas Station,transportation,30.76,Exxon,True,
+Starbucks,dining,5.0,Burger King,True,
+GROCERIES AT WALMART,groceries,79.93,Costco,,True
+public transportation,transportation,54.77,Mobil,,True
+PAYMENT FOR SERVICES,utilities,219.53,Cable TV,,True
+Bank Transfer $74,entertainment,10.0,Sports Game,,True
+$47 Purchase,subscriptions,22.14,,,True
+Weekly groceries via Google Pay,groceries,34.93,Giant,,True
+FREELANCE PAYMENT,freelance,2148.56,,,True
+bank transfer,housing,1542.82,Mortgage,,True
+$20 Produce purchase,groceries,84.96,Kroger,,True
+lunch at mcdonald's,dining,13.65,Chipotle,,True
+Nordstrom order,shopping,120.57,Target,True,
+Contract Work Invoice #1832,freelance,100.0,,True,
+Chick-fil-A $146,dining,20.68,Domino's,,True
+at Kohl's order,shopping,204.99,Walmart,,True
+TRAIN TICKET RIDE,transportation,33.19,Shell,,True
+Housing Transaction Nov,housing,1829.09,Property Tax,,True
+$109 Bank Transfer,subscriptions,13.31,,,True
+at Dinner at Taco Bell,dining,53.26,Domino's,,True
+nordstrom order,shopping,24.42,Nordstrom,,True
+GAS AT LYFT,transportation,21.5,Shell,,True
+Gap order purchase,shopping,15.0,Target,,True
+payment to Chick-fil-A,dining,22.32,McDonald's,,True
+kohl's order,shopping,204.99,Walmart,,True
+payment to Olive Garden,dining,24.97,Chipotle,,True
+Walmart order purchase,shopping,145.81,Gap,,True
+Contract Work Invoice #6610,freelance,714.77,,True,
+Mar Home Depot shopping,shopping,190.35,Old Navy,,True
+Electronics Target,shopping,178.31,eBay,True,
+LUNCH AT WENDY'S,dining,14.78,Subway,,True
+$86 Costco grocery,groceries,110.98,Meijer,,True
+$153 Monthly Salary Deposit,salary,2635.5,,,True
+Utilities Transaction Jun,utilities,230.5,Water Bill,,True
+Paycheck from Tech Corp $104,salary,7875.63,,,True
+Subway purchase,dining,25.97,Chick-fil-A,,True
+payment to Nordstrom order,shopping,24.42,Nordstrom,,True
+at Target grocery,groceries,127.59,Target,,True
+Coffee at Applebees,dining,14.41,Domino's,True,
+Starbucks $146,dining,10.91,Chick-fil-A,,True
+$96 Purchase,entertainment,22.05,Spotify,,True
+Consulting Services $26,freelance,508.07,,,True
+at Groceries at Safeway,groceries,83.56,Publix,,True
+$134 Taxi service,transportation,48.05,Shell,,True
+at Lunch at Burger King,dining,43.08,Wendy's,,True
+Contract Work Invoice #8817,freelance,1203.78,,True,
+Produce purchase via Apple Pay,groceries,61.88,Aldi,,True
+Contract Work Invoice #6758,freelance,439.57,,,True
+Utilities Transaction,utilities,59.72,Sewer Bill,True,
+Home Depot order $51,shopping,15.0,Amazon,,True
+Dinner at Wendy's via Google Pay,dining,18.37,Domino's,,True
+Purchase via Google Pay,housing,1361.46,Mortgage,,True
+online purchase amazon,shopping,217.14,Best Buy,,True
+exxon ride,transportation,15.39,Gas Station,,True
+payment for services,utilities,219.53,Cable TV,,True
+payment to Lyft ride,transportation,19.45,Gas Station,,True
+$162 Fast food,dining,50.02,Taco Bell,,True
+Contract Work Invoice #4932,freelance,944.57,,True,
+Jul Housing Transaction,housing,2123.3,Property Management,,True
+$78 Purchase,utilities,119.92,Phone Bill,,True
+Contract Work Invoice #6210,freelance,100.0,,True,
+Amazon Order,shopping,86.3,Best Buy,,True
+Groceries at Walmart,groceries,77.08,Publix,True,
+Contract Work Invoice #3699,freelance,100.0,,True,
+dinner at pizza hut,dining,37.6,Panera Bread,,True
+$39 Taxi service,transportation,28.04,Mobil,,True
+at Electronics Home Depot,shopping,174.94,Lowe's,,True
+at Lowe's order,shopping,40.74,Gap,,True
+Contract Work Invoice #2752,freelance,100.0,,True,
+Contract Work Invoice #7094,freelance,100.0,,True,
+Contract Work Invoice #3511,freelance,2735.97,,True,
+Payment for services via Visa,healthcare,20.0,Medical Supplies,,True
+Direct Deposit Salary Dec,salary,5719.29,,,True
+Entertainment Transaction $197,entertainment,20.78,YouTube Premium,,True
+Lunch at Pizza Hut $100,dining,25.28,Dunkin',,True
+groceries at safeway,groceries,83.56,Publix,,True
+Taxi service $97,transportation,22.93,Exxon,,True
+Contract Work Invoice #1323,freelance,892.11,,True,
+$52 Subscriptions Transaction,subscriptions,27.07,,,True
+Parking fee $145,transportation,31.55,Exxon,,True
+Contract Work Invoice #7045,freelance,1105.19,,True,
+Contract Work Invoice #5613,freelance,295.39,,True,
+Lowe's order via Visa,shopping,64.85,Kohl's,,True
+$123 Lunch at Chipotle,dining,23.95,Taco Bell,,True
+at Dinner at Pizza Hut,dining,37.6,Panera Bread,,True
+online purchase macy's,shopping,108.05,Home Depot,,True
+at eBay shopping,shopping,275.14,Gap,,True
+Monthly Salary Deposit,salary,5491.13,,True,
+DINNER AT STARBUCKS,dining,5.0,Dunkin',,True
+$7 Utilities Transaction,utilities,230.5,Water Bill,,True
+$107 Payment for services,entertainment,60.22,YouTube Premium,,True
+Dec Home goods,shopping,190.08,Old Navy,,True
+Purchase Jun,housing,1589.27,Rent Payment,,True
+$119 Produce purchase,groceries,108.69,Costco,,True
+Nov Home goods,shopping,90.48,Target,,True
+Train Ticket ride,transportation,11.94,Lyft,True,
+Oct Mobil ride,transportation,33.38,Mobil,,True
+Public transportation $108,transportation,66.55,Lyft,,True
+Contract Work Invoice #7391,freelance,100.0,,,True
+Online purchase Target,shopping,44.99,Home Depot,True,
+$179 Dinner at Dunkin',dining,27.97,Burger King,,True
+Aug Payment for services,utilities,63.28,Cable TV,,True
+Public transportation $7,transportation,61.86,Bus Ticket,,True
+Payment for services via Mastercard,utilities,261.31,Phone Bill,,True
+Lunch at Chick-fil-A $22,dining,5.0,Chipotle,,True
+DINNER AT APPLEBEES,dining,18.99,Subway,,True
+Dec Exxon ride,transportation,42.68,Bus Ticket,,True
+Bank Transfer via Visa,healthcare,117.85,Pharmacy,,True
+Lunch at Applebees,dining,5.0,Dunkin',True,
+Payment for services via Apple Pay,entertainment,10.0,Arcade,,True
+Taxi service Sep,transportation,53.33,Lyft,,True
+payment to Costco grocery,groceries,110.98,Meijer,,True
+Target shopping $130,shopping,15.0,Target,,True
+Dinner At Taco Bell,dining,53.26,Domino's,,True
+electronics home depot,shopping,174.94,Lowe's,,True
+at Dinner at Chipotle,dining,38.28,Taco Bell,,True
+Payment for services $16,housing,1785.82,HOA Fees,,True
+$172 Paycheck from Tech Corp,salary,4636.91,,,True
+Trader Joe'S Grocery,groceries,105.95,Walmart,,True
+Freelance Payment,freelance,100.0,,True,
+ONLINE PURCHASE OLD NAVY,shopping,15.0,Nordstrom,,True
+Public transportation $47,transportation,19.59,Metro Transit,,True
+Monthly Salary Deposit Aug,salary,2000.0,,,True
+Gap Shopping,shopping,15.0,Best Buy,,True
+Mobil ride Oct,transportation,33.38,Mobil,,True
+payment to Online purchase Old Navy,shopping,15.0,Nordstrom,,True
+Clothing purchase,shopping,165.51,Best Buy,True,
+Restaurant meal $103,dining,32.98,Burger King,,True
+Taxi service $96,transportation,65.08,Shell,,True
+Purchase Jun,entertainment,22.05,Spotify,,True
+Contract Work Invoice #9997,freelance,1839.18,,True,
+Metro Transit ride,transportation,50.08,Shell,True,
+at Lunch at McDonald's,dining,13.65,Chipotle,,True
+COFFEE AT PIZZA HUT,dining,34.43,Dunkin',,True
+Walmart grocery $79,groceries,89.68,Whole Foods,,True
+Contract Work Invoice #7388,freelance,1684.88,,True,
+Supermarket purchase Jul,groceries,119.38,Trader Joe's,,True
+Aug Paycheck from Tech Corp,salary,2669.24,,,True
+lyft ride,transportation,19.45,Gas Station,,True
+Car maintenance $191,transportation,56.02,Lyft,,True
+Contract Work Invoice #1044,freelance,100.0,,True,
+$74 Coffee at Wendy's,dining,13.44,Taco Bell,,True
